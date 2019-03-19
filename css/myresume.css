@@ -20,4 +20,11 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
+.bg-primary{
+	background-color: #c45b00!important;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+}
 
+.text-primary{
+    color:#94310a!important;
+}
